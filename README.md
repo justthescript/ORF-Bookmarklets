@@ -6,6 +6,11 @@
 
 javascript:(()=>{var s=document.createElement('script');s.src='https://cdn.jsdelivr.net/gh/justthescript/ORF-Bookmarklets@main/hs_step1.js?v='+Date.now();document.head.appendChild(s);})();
 
+## ORF Step 2 (NetSuite Autofill)
+
+javascript:(()=>{var s=document.createElement('script');s.src='https://cdn.jsdelivr.net/gh/justthescript/ORF-Bookmarklets@main/ns_step2.js?v='+Date.now();document.head.appendChild(s);})();
+
+
 ### How to install
 1. Create a new bookmark in Chrome
 2. Name it: ORF Step 1
